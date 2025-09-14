@@ -1,0 +1,21 @@
+{
+  "name": "Bonfire 🔥",
+  "short_name": "Bonfire",
+  "description": "Real-time motivational chat app with moderators.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffeaa7",
+  "theme_color": "#e17055",
+  "icons": [
+    {
+      "src": "icons.zip/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons.zip/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
